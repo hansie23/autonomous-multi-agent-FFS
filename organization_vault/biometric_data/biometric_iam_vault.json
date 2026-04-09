@@ -1,0 +1,47 @@
+{
+    "CUST-638503": {
+        "name": "Sarah King",
+        "reference_id_path": "system_vault/data/biometrics/archive/0f87482f_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-736163": {
+        "name": "David Adams",
+        "reference_id_path": "system_vault/data/biometrics/archive/5c8cd38a_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-609245": {
+        "name": "Gregory Gould",
+        "reference_id_path": "system_vault/data/biometrics/archive/a1b2c3d4_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-424439": {
+        "name": "Cynthia Bennett",
+        "reference_id_path": "system_vault/data/biometrics/archive/e5f6g7h8_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-582753": {
+        "name": "Amanda Henry",
+        "reference_id_path": "system_vault/data/biometrics/archive/i9j0k1l2_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-899223": {
+        "name": "Shane Jones",
+        "reference_id_path": "system_vault/data/biometrics/archive/m3n4o5p6_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-961456": {
+        "name": "Denise Bryant",
+        "reference_id_path": "system_vault/data/biometrics/archive/q7r8s9t0_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-358122": {
+        "name": "Steven Franco",
+        "reference_id_path": "system_vault/data/biometrics/archive/u1v2w3x4_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-702270": {
+        "name": "Haley Lopez",
+        "reference_id_path": "system_vault/data/biometrics/archive/y5z6a7b8_ID.png",
+        "security_clearance": "standard"
+    }
+}
