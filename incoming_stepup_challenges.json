@@ -1,0 +1,42 @@
+{
+    "ALRT-2026-001": {
+        "customer_id": "CUST-524491",
+        "captured_selfie_path": "system/bio_evidence/CUST-524491/0f87482f_ID.png"
+    },
+    "ALRT-2026-002": {
+        "customer_id": "CUST-106581",
+        "captured_selfie_path": "system/bio_evidence/CUST-106581/5c8cd38a_ID.png"
+    },
+    "ALRT-2026-003": {
+        "customer_id": "CUST-182520",
+        "captured_selfie_path": "system/bio_evidence/CUST-182520/a1b2c3d4_ID.png"
+    },
+    "ALRT-2026-004": {
+        "customer_id": "CUST-860867",
+        "captured_selfie_path": "system/bio_evidence/CUST-860867/e5f6g7h8_ID.png"
+    },
+    "ALRT-2026-005": {
+        "customer_id": "CUST-680684",
+        "captured_selfie_path": "system/bio_evidence/CUST-680684/i9j0k1l2_ID.png"
+    },
+    "ALRT-2026-006": {
+        "customer_id": "CUST-276065",
+        "captured_selfie_path": "system/bio_evidence/CUST-276065/m3n4o5p6_ID.png"
+    },
+    "ALRT-2026-007": {
+        "customer_id": "CUST-371686",
+        "captured_selfie_path": "system/bio_evidence/CUST-371686/q7r8s9t0_ID.png"
+    },
+    "ALRT-2026-008": {
+        "customer_id": "CUST-308830",
+        "captured_selfie_path": "system/bio_evidence/CUST-308830/u1v2w3x4_ID.png"
+    },
+    "ALRT-2026-009": {
+        "customer_id": "CUST-516402",
+        "captured_selfie_path": "system/bio_evidence/CUST-516402/y5z6a7b8_ID.png"
+    },
+    "ALRT-2026-010": {
+        "customer_id": "CUST-416623",
+        "captured_selfie_path": "system/bio_evidence/CUST-416623/0f87482f_ID.png"
+    }
+}

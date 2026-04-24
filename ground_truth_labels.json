@@ -1,0 +1,71 @@
+{
+    "ALRT-2026-001": {
+        "scenario": "Impossible Travel",
+        "is_genuine": true,
+        "target_tx": "TX-E0E37C7639"
+    },
+    "ALRT-2026-002": {
+        "scenario": "Frequency Burst",
+        "is_genuine": true,
+        "target_tx": [
+            "TX-8B3E59FE2F",
+            "TX-3B5EE002A3",
+            "TX-B2E10A846D",
+            "TX-AECC4DA3C4",
+            "TX-76C9109941",
+            "TX-17858E96C3",
+            "TX-61A1C6F7E0",
+            "TX-0D76647364",
+            "TX-C6D2379D8E",
+            "TX-E8D75120A2",
+            "TX-857AB22A35",
+            "TX-1A95237A5B"
+        ]
+    },
+    "ALRT-2026-003": {
+        "scenario": "Night Owl",
+        "is_genuine": true,
+        "target_tx": "TX-7D633BDDB2"
+    },
+    "ALRT-2026-004": {
+        "scenario": "APP Fraud",
+        "is_genuine": true,
+        "target_tx": "TX-D3DDB35F68"
+    },
+    "ALRT-2026-005": {
+        "scenario": "CNP Fraud",
+        "is_genuine": false,
+        "target_tx": "TX-E946A91073"
+    },
+    "ALRT-2026-006": {
+        "scenario": "Mule Activity",
+        "is_genuine": false,
+        "target_tx": [
+            "TX-BB40E08BCC",
+            "TX-B99F57169E",
+            "TX-C8DBD77690",
+            "TX-2E5AC1B8A3",
+            "TX-FA79A75A80"
+        ]
+    },
+    "ALRT-2026-007": {
+        "scenario": "Account Takeover",
+        "is_genuine": false,
+        "target_tx": "TX-54123C8455"
+    },
+    "ALRT-2026-008": {
+        "scenario": "Multimodal Verification",
+        "is_genuine": false,
+        "target_tx": "TX-25D3641990"
+    },
+    "ALRT-2026-009": {
+        "scenario": "Normal Baseline",
+        "is_genuine": true,
+        "target_tx": "None"
+    },
+    "ALRT-2026-010": {
+        "scenario": "Russian Laundromat",
+        "is_genuine": false,
+        "target_tx": "TX-2C30576D0D"
+    }
+}

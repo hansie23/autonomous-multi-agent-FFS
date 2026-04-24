@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Project Specific
+generated_sars/*.md
+system/visuals/*.png
+organization_vault/data/core_banking_ledger.db
+system/chroma_db/
+local_bge_model/
+models/
+
+# Aiven Kafka SSL Certificates
+ca.pem
+service.cert
+service.key
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

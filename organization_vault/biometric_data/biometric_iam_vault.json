@@ -1,0 +1,52 @@
+{
+    "CUST-524491": {
+        "name": "Sarah King",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/0f87482f_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-106581": {
+        "name": "David Adams",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/5c8cd38a_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-182520": {
+        "name": "Gregory Gould",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/a1b2c3d4_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-860867": {
+        "name": "Cynthia Bennett",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/e5f6g7h8_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-680684": {
+        "name": "Amanda Henry",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/i9j0k1l2_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-276065": {
+        "name": "Shane Jones",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/m3n4o5p6_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-371686": {
+        "name": "Denise Bryant",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/q7r8s9t0_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-308830": {
+        "name": "Steven Franco",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/u1v2w3x4_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-516402": {
+        "name": "Haley Lopez",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/y5z6a7b8_ID.png",
+        "security_clearance": "standard"
+    },
+    "CUST-416623": {
+        "name": "Elena Petrova",
+        "reference_id_path": "organization_vault/biometric_data/profile_imgs/0f87482f_ID.png",
+        "security_clearance": "standard"
+    }
+}
